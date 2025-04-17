@@ -1,9 +1,6 @@
-<!-- Poppins Font Import -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+<div align="center">
 
-<div align="left" style="font-family: 'Poppins'">
-
-  <h5>Languages</h5>
+  <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -14,7 +11,7 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   </p>
 
-  <h5>Frameworks, Platforms & Libraries</h5>
+  <h3>Frameworks, Platforms & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -27,26 +24,26 @@
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   </p>
 
-  <h5>Databases</h5>
+  <h3>Databases</h3>
   <p>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   </p>
 
-  <h5>Design</h5>
+  <h3>Design</h3>
   <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   </p>
 
-  <h5>Hosting & CI/CD</h5>
+  <h3>Hosting & CI/CD</h3>
   <p>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 
-  <h5>💰 You can help me by Donating</h5>
+  <h3>💰 You can help me by Donating</h3>
   <p>
     <a href="https://buymeacoffee.com/loreeeenzz">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />

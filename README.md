@@ -11,7 +11,7 @@
 
 <hr />
 
-<div align="left">
+<div align="center">
 
   <h3>Languages</h3>
   <p>

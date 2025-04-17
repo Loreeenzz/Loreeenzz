@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there! I'm Lorenz 👋</h1>
+  <h1>Hi there! I'm Lorenz 🐉</h1>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21leTZ3NTV1YjJoc3o0ZWE4bGQ0b3Rvc3Qxanp3NnVjZ3VvMDU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="200"/>
 
   <p>🙍🏻‍♂️ About Me:</p>

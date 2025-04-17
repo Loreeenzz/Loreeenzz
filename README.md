@@ -1,7 +1,7 @@
 <!-- Poppins Font Import -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
-<div align="center" style="font-family: 'Poppins'">
+<div align="left" style="font-family: 'Poppins'">
 
   <h5>Languages</h5>
   <p>

@@ -1,97 +1,46 @@
-<h1 align="center">Hi 👋, I'm Blaise Lorenz T. Bernabe</h1>
-<h3 align="center">🚀 Full Stack Developer from the Philippines | Lifelong Learner | Student @ UC (Banilad)</h3>
-
-<p align="center">
-  <a href="https://github.com/Loreenzz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Student+Developer;React+%7C+Next.js+Lover;Currently+Learning+Java+%2B+Databases;Open+to+Collaborations+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 **BSIT Student** at University of Cebu – Banilad Campus
-- 🌱 Currently focused on **Java**, **ReactJS**, **Database Systems**, and **Next.js**
-- 🧠 Improving my skills through **open source** and **hackathons**
-- 💌 Reach me at: **Blaise5255@gmail.com**
-- 🔗 Portfolio: *Coming Soon...*
+## 💻 Languages  
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/lore_enz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Loreenzz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚒️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,java,mysql,figma,git,vscode" />
-</p>
+## ⚙️ Frameworks, Platforms & Libraries  
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white"/>
 
 ---
 
-### 📌 Featured Projects
-
-> 🔍 *Click to explore repositories I'm working on or have completed*
-
-- [EcoShare ♻️](https://github.com/Loreenzz/EcoShare) – A web app that connects food donors to plant caretakers using modern tech (Next.js, Tailwind, Shadcn UI)
-- [Portfolio (Coming Soon)](https://github.com/Loreenzz/portfolio-v1)
-- [Mini Java Projects 🧩](https://github.com/Loreenzz/java-mini-projects)
+## 🗄️ Databases  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ---
 
-### 🧠 Currently Learning
-
-- 📦 Backend: **Java + Spring Boot**
-- 🌐 Frontend: **Advanced Next.js**, **Framer Motion**, **Component Design Systems**
-- 🔍 Concepts: **API integration**, **UI/UX best practices**, **Database relationships**
-- 🎨 Tools: **Shadcn UI**, **Figma Prototypes**, **Lucide Icons**
+## 🎨 Design  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 ---
 
-### 🏆 Achievements & Highlights *(More Soon)*
-
-- 🥈 UI/UX Design Finalist - School Hackathon 2025
-- 🎯 Completed a full-stack food donation platform prototype
-- 💡 Built 10+ mini projects with React and JavaScript
-
----
-
-### 🎯 2025 Goals
-
-- ✅ Launch a personal portfolio site
-- 🚀 Contribute to 3+ open source projects
-- 🧱 Learn backend with Java & deploy full-stack app
-- 🌟 Join at least 1 major hackathon or tech event
+## 🚀 Hosting & CI/CD  
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loreenzz&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loreenzz&theme=radical&border=7F3FBF&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Loreenzz&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</p>
-
----
-
-### 🔥 Fun Fact
-
-> I believe in **"Build fast, learn faster"**. If I don’t know it yet—I’ll figure it out. Let’s innovate together!
+## 💰 You can help me by Donating  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/loreeeenzz)

@@ -1,17 +1,17 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdsdzA4emdlZWxrdTZwbW1lNWdiNzU3ZHV5N2dmNW9vNnBhYXZzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif" width="200"/>
-
   <h1>Hi there! I'm Lorenz 👋</h1>
-  <p>Front-end Wizard 🪄 | UI/UX Enthusiast 🎨 | Full-Stack Explorer 🚀</p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21leTZ3NTV1YjJoc3o0ZWE4bGQ0b3Rvc3Qxanp3NnVjZ3VvMDU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="200"/>
 
-  <p>Welcome to my world of code and creativity! I love building modern, responsive web apps and bringing ideas to life with elegant design & smooth interactivity.</p>
+  <p>🙍🏻‍♂️ About Me:</p>
+  <hr />
+  <p>I am a 3rd-year student at the University of Banilad, specializing as a front-end developer. Currently, I am working on React projects to enhance my skills and build innovative web applications.</p>
 
 </div>
 
----
+<hr />
 
-<div align="center">
+<div align="left">
 
   <h3>🚀 Languages</h3>
   <p>
